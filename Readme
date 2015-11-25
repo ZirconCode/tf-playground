@@ -1,8 +1,11 @@
 bundle install
+pip install -r requirements.txt
+  (python -V 2.7.6)
 
 bundle exec guard
+source venv/bin/activate.fish
+  (or no .fish)
 
 TODO
 - setup guardfile
-- setup venv
 
