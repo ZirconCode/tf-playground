@@ -8,5 +8,6 @@ source venv/bin/activate.fish
 
 TODO
 - make guardfile flexible...
+- fix the run scrip env somehow..
 - implement basid MNIST example on tf
 
