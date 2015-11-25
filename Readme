@@ -1,0 +1,8 @@
+bundle install
+
+bundle exec guard
+
+TODO
+- setup guardfile
+- setup venv
+
