@@ -7,5 +7,6 @@ source venv/bin/activate.fish
   (or no .fish)
 
 TODO
-- setup guardfile
+- make guardfile flexible...
+- implement basid MNIST example on tf
 

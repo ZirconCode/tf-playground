@@ -16,5 +16,5 @@
 # and, you'll have to watch "config/Guardfile" instead of "Guardfile"
 
 guard :shell do
-  watch('sandbox.py') { `pwd` }
+  watch('sandbox.py') { `bash run.sh` }
 end
